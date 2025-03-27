@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Whispers a join message when player join the game",
+    "pack_format": 57,
+    "supported_formats": [57, 61]
+  }
+}
