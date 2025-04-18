@@ -5,6 +5,6 @@
         }
     },
     "rewards": {
-        "function": "joinmsg:message"
+        "function": "joinmsg:give_intro_book"
     }
 }
